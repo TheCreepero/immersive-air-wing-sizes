@@ -1,0 +1,40 @@
+{
+    "sizes": {
+        "fighter": 24,
+        "cv_fighter": 24,
+        "jet_fighter": 24,
+        "cv_jet_fighter": 24,
+        "bm_stealth_fighter": 24,
+        "heavy_fighter": 18,
+        "fighter_bomber": 18,
+        "hfighter_bomber": 18,
+        "cas": 18,
+        "cv_cas": 18,
+        "drone_cas": 18,
+        "nav_bomber": 18,
+        "cv_nav_bomber": 18,
+        "suicide_craft": 18,
+        "cv_suicide_craft": 18,
+        "tac_bomber": 16,
+        "jet_tac_bomber": 16,
+        "med_maritime": 16,
+        "bm_stealth_bomber": 16,
+        "strat_bomber": 12,
+        "jet_strat_bomber": 12,
+        "strat_bomber_intercontinental": 12,
+        "maritime_patrol_plane": 12,
+        "flying_boat": 12,
+        "strat_maritime": 12,
+        "scout_plane": 12,
+        "transport_plane": 12,
+        "rocket_interceptor": 12
+    },
+    "unchanged": [
+        "mothership",
+        "guided_missile",
+        "explosive_ammo",
+        "ballistic_missile",
+        "nuclear_missile",
+        "sam_missile"
+    ]
+}

@@ -1,0 +1,2 @@
+NDefines.NAir.ACE_WING_SIZE = 24
+NDefines.NAir.AIR_WING_AVERAGE_SIZE = 20
